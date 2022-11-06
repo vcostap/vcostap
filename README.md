@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm currently working on Dito CRM. 
+- 🔭 I'm a back-end developer currently working on Dito CRM. 
 - 🌱 I’m currently learning Golang. 
 - 📫 How to reach me: viniciuscostapereira@hotmail.com
 
